@@ -8,7 +8,7 @@
 ![Styled Components](https://img.shields.io/badge/styled_components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
 
 
-##Start project
+## Start project
 
 Install
 ```
@@ -16,7 +16,7 @@ npm install
 ```
 
 
-###Front-end
+### Front-end
 
 start
 
@@ -24,14 +24,14 @@ start
 npm run start
 ```
 
-###Server
+### Server
 start
 ```
 npm run api
 ```
 
 
-##요구사항
+## 요구사항
 1. Redux logger, redux devtools 설정
 2. comment CRUD 기능
 3. 페이징 처리  
@@ -40,7 +40,7 @@ npm run api
 <summary>상세 보기</summary>
 <div markdown="1">
 
-## 프로젝트 구조
+### 프로젝트 구조
 ![프로젝트 구조](https://user-images.githubusercontent.com/57653953/186341966-d1d0eb74-e79e-41a2-9b06-a542ae605618.png)
 
 - api, redux, container, components 분리
